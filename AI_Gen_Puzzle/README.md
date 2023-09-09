@@ -1,0 +1,1 @@
+These puzzles are a collection of puzzles generated with ChatGPT.

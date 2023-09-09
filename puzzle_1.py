@@ -15,4 +15,4 @@ print(f"Afternoon sales: {pm_sales}")
 
 
 # Source
-https://www.math10.com/en/algebra/word-problems.html
+#https://www.math10.com/en/algebra/word-problems.html
